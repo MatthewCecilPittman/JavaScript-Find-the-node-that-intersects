@@ -16,6 +16,7 @@ Google interview problem. Daily coding challenge number 20
 // M is the length of the first list and N is the length of the second list
 
 // eslint-disable-next-line
+```
 class LinkedListNode {
   /**
    * Initializes the start of a link list
@@ -48,3 +49,4 @@ function findIntersection(list1, list2) {
 }
 
 findIntersection;
+```
